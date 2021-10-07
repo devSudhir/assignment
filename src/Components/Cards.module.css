@@ -1,0 +1,14 @@
+.cardWidth {
+  width: 700px;
+  margin: auto;
+  color: #fff;
+  background-color: rgb(0, 0, 0);
+}
+
+.cardWidth tr td {
+  padding: 10px;
+}
+.customButton {
+  padding: 1px 5px;
+  margin: 0px 5px;
+}
